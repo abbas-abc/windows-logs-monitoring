@@ -37,7 +37,7 @@ Real log data was collected and analyzed from a live Windows machine across thre
 
 ## Files
 
-- [Full project report with screenshots and analysis](https://github.com/abbas-abc/windows-logs-monitoring/blob/main/report/Windows_Logs_Project_Report.pdf)
+- [Full project report with screenshots and analysis](https://drive.google.com/file/d/1cgABufvnvErREWgl8JAAN79I15swkcnE/view?usp=sharing)
 
 ## Skills Demonstrated
 
